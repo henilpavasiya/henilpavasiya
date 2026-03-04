@@ -1,7 +1,7 @@
 # Hello World!
 
 Hi there, I'm Henil 👋
-I am an Android Software Engineer focused on building clean, maintainable, and high-performance native applications. I specialize in Kotlin, Jetpack Compose, and the Firebase ecosystem. Currently, I'm developing comprehensive apps for restaurant operations and customer engagement, while leveraging my background in Information Systems to optimize app architecture and backend integrations.
+I am an Mobile App Developer focused on building clean, maintainable, and high-performance native applications. I specialize in Kotlin, Jetpack Compose, Dart, and the Firebase ecosystem. Currently, I'm developing comprehensive apps for restaurant operations and customer engagement, while leveraging my background in Information Systems to optimize app architecture and backend integrations.
 
 I believe in turning "404 Not Found" into "200 OK" one line of code at a time. Join me in my quest to build the digital world, one emoji 🧱 at a time! Let's break the internet together! 🌐💥
 
