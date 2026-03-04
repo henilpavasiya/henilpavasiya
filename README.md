@@ -1,6 +1,7 @@
 # Hello World!
 
-👋 I'm Henilkumar, a Master's graduate from Concordia University, and a passionate computer engineer with a keen interest in full-stack development. My journey has been enriched by experiences ranging from leading a team at Transcendence Infotech to honing my skills as a Software Developer Intern at GAOTek Inc.
+Hi there, I'm Henil 👋
+I am an Android Software Engineer focused on building clean, maintainable, and high-performance native applications. I specialize in Kotlin, Jetpack Compose, and the Firebase ecosystem. Currently, I'm developing comprehensive apps for restaurant operations and customer engagement, while leveraging my background in Information Systems to optimize app architecture and backend integrations.
 
 I believe in turning "404 Not Found" into "200 OK" one line of code at a time. Join me in my quest to build the digital world, one emoji 🧱 at a time! Let's break the internet together! 🌐💥
 
